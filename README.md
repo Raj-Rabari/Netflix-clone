@@ -94,6 +94,3 @@ This is for how to list things you need to use the software and how to install t
  - Execute `npm start` command.
  - Run the localhost:3000 in the browser.   
  - Now watch favourite videos 
-
-For more examples, please refer to the [Documentation](https://example.com)
-
