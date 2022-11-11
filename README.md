@@ -76,7 +76,7 @@ This is for how to list things you need to use the software and how to install t
 
 1. Clone the repo
    sh
-   git clone https://github.com/zehan12/Netflix.git
+   git clone https://github.com/zalamitul/NetFlixClone
    
 2. Install NPM packages
    sh
